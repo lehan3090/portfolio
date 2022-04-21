@@ -8,9 +8,10 @@
 ### 프레임아웃 2022.03 ~ 재직중
 
 #### 프로젝트 명: SK STOA TFT
-SK STOA 쇼핑몰 운영/개선 퍼블리싱
+SK STOA 쇼핑몰 운영/개선 퍼블리싱<br/>
 http://www.skstoa.com/index
 <br/><br/>
+
 
 ### 밸류마크 2019.05 ~ 2022.03
 

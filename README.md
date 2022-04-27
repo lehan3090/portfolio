@@ -98,7 +98,7 @@ HTML, CSS, Javascript
 HTML, SCSS, Typescript, Vue
 
 #### 퍼블리싱 작업 기여도
-60%
+70%
 
 #### 상세 업무
 ERP 시스템에 사용되는 템플릿을 Vue를 활용하여 개발 및 화면 레이아웃 영역
